@@ -1,4 +1,4 @@
-# mattab
+# clean architecture structure
 
 A new Flutter project.
 
